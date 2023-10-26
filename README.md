@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving my skills and be better professionally and personally;
 - 🌱 I’m currently learning Java, Spring, Hibernate;
 - 💞️ I’m looking to collaborate on any project;
-- 📫 How to reach me: feel free to send an e-mail to yuliyadevjava@gmail.com;
+- 📫 How to reach me: feel free to send an e-mail to julia.rine55@mail.ru;
 
 <!---
 Plutois9th/Plutois9th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
