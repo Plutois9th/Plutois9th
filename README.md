@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Plutois9th;
 - 👀 I’m interested in improving my skills and be better professionally and personally;
-- 🌱 I’m currently learning Java, Spring, Hibernate;
-- 💞️ I’m looking to collaborate on any project;
 - 📫 How to reach me: feel free to send an e-mail to julia.rine55@mail.ru;
 
 <!---
